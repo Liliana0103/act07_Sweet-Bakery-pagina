@@ -1,0 +1,60 @@
+header {
+  background: linear-gradient(to right, #b30059, #ff4da6);
+  color: rgb(95, 43, 55);
+}
+
+.inicio{
+    height: 100vh;
+    background-image: url('../imagenes/panes\ variados.webp');
+    background-size: cover;
+}
+
+.inicio-titulo h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.inicio-titulo p {
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-pink {
+  background-color: #f7b1c3;
+}
+
+.btn-pink {
+  background-color: #d8a1af;
+  color: rgb(176, 124, 177);
+  border: none;
+}
+
+.btn-pink:hover {
+  background-color: #ca7a8a;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.sobre-nosotros {
+  background-color: #ffe6ef; 
+  color: #5a2a4c; 
+}
+
+.sobre-nosotros h2 {
+  color: #d63384; 
+  font-size: 2rem;
+}
+
+.sobre-nosotros p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+
