@@ -9,7 +9,7 @@ header {
     background-size: cover;
 }
 
-.inicio-titulo h1 {
+.inicio-titulo {
   font-size: 3rem;
   font-weight: bold;
 }
@@ -33,7 +33,7 @@ body {
   border: none;
 }
 
-.btn-pink:hover {
+.btn-pink {
   background-color: #ca7a8a;
 }
 
