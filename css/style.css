@@ -57,4 +57,9 @@ body {
   line-height: 1.6;
 }
 
+footer a:hover {
+  color: #ff80ab; /* rosa claro */
+}
+
+
 
